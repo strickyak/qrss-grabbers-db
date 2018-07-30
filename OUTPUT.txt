@@ -1,0 +1,844 @@
+
+
+2E0ILY-136KHZ
+
+	Identifier :: 	2E0ILY-136KHZ
+	ImageURL :: 	http://www.chriswilson.tv/grabs/qrss.gif
+	RecentlyUp :: 	Seasonal
+
+
+7L1RLL ;;; [Andy] 7L1RLL-136KHZ
+
+	Callsign :: 	7L1RLL
+	Identifier :: 	7L1RLL ;;; [Andy] 7L1RLL-136KHZ
+	ImageURL :: 	http://www1.u-netsurf.ne.jp/~7l1rll/argo_capture.jpg
+	Location :: 	Japan
+	Name :: 	Rick
+	RecentlyUp :: 	Full time
+	WebSiteURL :: 	http://www1.u-netsurf.ne.jp/~7l1rll/Grabber_7L1RLL.html
+
+
+AA7US-HF3
+
+	Identifier :: 	AA7US-HF3
+	ImageURL :: 	http://www.qsl.net/aa7us/hf3.jpg
+	RecentlyUp :: 	Seasonal
+
+
+CT2IWW ;;; [Andy] CT2IWW-2018
+
+	Callsign :: 	CT2IWW
+	Comment :: 	Part time. Variable bands inc 28MHz.
+	Identifier :: 	CT2IWW ;;; [Andy] CT2IWW-2018
+	ImageURL :: 	http://qsl.net/ct2iww/CT2IWW_QRSS_files/hf1.jpg
+	Name :: 	Paulo
+	RecentlyUp :: 	Part time
+	Timestamp :: 	7/14/2018
+
+
+DF2JP ;;; [Andy] DF2JP-630M
+
+	Callsign :: 	DF2JP
+	Comment :: 	Seasonal LF grabber
+	Identifier :: 	DF2JP ;;; [Andy] DF2JP-630M
+	ImageURL :: 	http://www.df2jp.dxx.eu/630m.jpg
+	Location :: 	Meerbusch, Germany
+	Name :: 	Joe
+	RecentlyUp :: 	Seasonal
+	Timestamp :: 	7/14/2018
+	Title :: 	479.180 KHz
+	WebSiteURL :: 	http://www.df2jp.dxx.eu/mwgrabber.html
+
+
+EA8BVP1 ;;; [Andy] EA8BVP
+
+	Callsign :: 	EA8BVP
+	Comment :: 	Canary Island 10 min grabber
+	Identifier :: 	EA8BVP1 ;;; [Andy] EA8BVP
+	ImageURL :: 	http://www.qsl.net/ea8bvp/hf1.jpg
+	Location :: 	Canary Islands
+	Name :: 	Baltasar ;;; [Henry] Baltisivar
+	RecentlyUp :: 	Full time 10 min grabs
+	Timestamp :: 	7/14/2018
+	Title :: 	30m
+	WebSiteURL :: 	http://www.qsl.net/ea8bvp/grabber.html
+
+
+EA8BVP2 ;;; [Andy] EA8BVP-4
+
+	Callsign :: 	EA8BVP
+	Identifier :: 	EA8BVP2 ;;; [Andy] EA8BVP-4
+	ImageURL :: 	http://www.qsl.net/ea8bvp/hf2.jpg
+	Location :: 	Canary Islands
+	Name :: 	Baltasar
+	RecentlyUp :: 	Full time 4 hour grabs
+	Title :: 	30m (slow)
+	WebSiteURL :: 	http://www.qsl.net/ea8bvp/grabber.html
+
+
+EW6BN-136Khz
+
+	Identifier :: 	EW6BN-136Khz
+	ImageURL :: 	http://qsl.net/ew6bn/grabber/capt3.jpg
+	RecentlyUp :: 	Belarus 136Khx EU tx window
+
+
+G0MQW1
+
+	Callsign :: 	G0MQW
+	Comment :: 	Variable bands/ Mostly full time
+	Identifier :: 	G0MQW1
+	ImageURL :: 	http://www.qsl.net/g0mqw/hf1.jpg
+	Location :: 	Reading, Berkshire, England
+	Name :: 	Chris
+	RecentlyUp :: 	Full time
+	Timestamp :: 	7/14/2018
+	Title :: 	1 (30m)
+	WebSiteURL :: 	http://www.qsl.net/g0mqw/
+
+
+G0MQW2
+
+	Callsign :: 	G0MQW
+	Comment :: 	Variable bands/ Mostly full time
+	Identifier :: 	G0MQW2
+	ImageURL :: 	http://www.qsl.net/g0mqw/hf2.jpg
+	Location :: 	Reading, Berkshire, England
+	Name :: 	Chris
+	RecentlyUp :: 	Full time
+	Timestamp :: 	7/14/2018
+	Title :: 	2 (30m)
+	WebSiteURL :: 	http://www.qsl.net/g0mqw/
+
+
+G0MQW3
+
+	Callsign :: 	G0MQW
+	Comment :: 	Variable bands/ Mostly full time
+	Identifier :: 	G0MQW3
+	ImageURL :: 	http://www.qsl.net/g0mqw/hf3.jpg
+	Location :: 	Reading, Berkshire, England
+	Name :: 	Chris
+	RecentlyUp :: 	Full time
+	Timestamp :: 	7/14/2018
+	Title :: 	3 (10m)
+	WebSiteURL :: 	http://www.qsl.net/g0mqw/
+
+
+G3VYZ1
+
+	Callsign :: 	G3VYZ
+	Comment :: 	G3VYZ North UK
+	Identifier :: 	G3VYZ1
+	ImageURL :: 	http://www.holywell44.com/qrss/qrss_.jpg
+	Location :: 	Holywell, Northumberland, UK
+	Name :: 	Les
+	RecentlyUp :: 	Full time
+	Timestamp :: 	7/14/2018
+	Title :: 	Grabber 1
+	WebSiteURL :: 	http://www.holywell44.com/qrss/qrss.htm
+
+
+G3VYZ2
+
+	Callsign :: 	G3VYZ
+	Comment :: 	G3VYZ North UK
+	Identifier :: 	G3VYZ2
+	ImageURL :: 	http://www.holywell44.com/qrss/qrss_2.jpg
+	Location :: 	Holywell, Northumberland, UK
+	Name :: 	Les
+	RecentlyUp :: 	Full time
+	Timestamp :: 	7/14/2018
+	Title :: 	Grabber 2
+	WebSiteURL :: 	http://www.holywell44.com/qrss/qrss.htm
+
+
+G3VYZ3
+
+	Callsign :: 	G3VYZ
+	Comment :: 	G3VYZ North UK
+	Identifier :: 	G3VYZ3
+	ImageURL :: 	http://www.holywell44.com/qrss/qrss_3.jpg
+	Location :: 	Holywell, Northumberland, UK
+	Name :: 	Les
+	RecentlyUp :: 	Full time
+	Timestamp :: 	7/14/2018
+	Title :: 	Grabber 3
+	WebSiteURL :: 	http://www.holywell44.com/qrss/qrss.htm
+
+
+G3VYZ4
+
+	Identifier :: 	G3VYZ4
+	ImageURL :: 	http://www.holywell44.com/qrss/qrss_4.jpg
+	RecentlyUp :: 	1 hour slow 40m
+
+
+G3VYZ5
+
+	Identifier :: 	G3VYZ5
+	ImageURL :: 	http://www.holywell44.com/qrss/qrss_5.jpg
+	RecentlyUp :: 	10m narrow band view
+
+
+G3YXM-475Khz
+
+	Identifier :: 	G3YXM-475Khz
+	ImageURL :: 	http://g3yxm.ddns.net/grabs/472.jpg
+	RecentlyUp :: 	Full time
+
+
+G3ZJO
+
+	Callsign :: 	G3ZJO
+	Identifier :: 	G3ZJO
+	ImageURL :: 	http://www.qsl.net/g3zjo/HFgrab/hf1.jpg
+	Location :: 	Northampton, England
+	Name :: 	Eddie
+	RecentlyUp :: 	Occasional
+	WebSiteURL :: 	http://www.qsl.net/g3zjo/qrssgrabber.html
+
+
+G4IOG
+
+	Callsign :: 	G4IOG
+	Comment :: 	Bob, South East UK. HF bands.Mostly full time.
+	Extra :: 	 bands variable
+	Identifier :: 	G4IOG
+	ImageURL :: 	http://www.qsl.net/g4iog/hf9.jpg
+	Name :: 	Bob
+	RecentlyUp :: 	Full time
+	Timestamp :: 	7/14/2018
+
+
+G4IOG
+
+	Callsign :: 	G4IOG
+	Comment :: 	Bob, South East UK. HF bands.Mostly full time.
+	Extra :: 	 bands variable
+	Identifier :: 	G4IOG
+	ImageURL :: 	http://www.qsl.net/g4iog/hf9.jpg
+	Name :: 	Bob
+	RecentlyUp :: 	Full time
+	Timestamp :: 	7/14/2018
+
+
+G4IOG-Alternative
+
+	Identifier :: 	G4IOG-Alternative
+	ImageURL :: 	http://www.qsl.net/g4iog/qrsspig/hf5.jpg
+	RecentlyUp :: 	Mostly full time
+
+
+G4JVF
+
+	Callsign :: 	G4JVF
+	Comment :: 	Variable bands/ Occasional grabber.
+	Identifier :: 	G4JVF
+	ImageURL :: 	http://www.qsl.net/g4jvf//qrss.jpg
+	Name :: 	Pete
+	Timestamp :: 	7/14/2018
+
+
+G4JVF-2 ;;; [Andy] G4JVF/HF1
+
+	Callsign :: 	G4JVF
+	Comment :: 	Variable bands/ Occasional grabber.
+	Identifier :: 	G4JVF-2 ;;; [Andy] G4JVF/HF1
+	ImageURL :: 	http://www.qsl.net/g4jvf//hf1.jpg
+	Name :: 	Pete
+	RecentlyUp :: 	Occasional
+	Timestamp :: 	7/14/2018
+
+
+G4JVF-3 ;;; [Andy] G4JVF/HF4
+
+	Callsign :: 	G4JVF
+	Comment :: 	Variable bands/ Occasional grabber.
+	Identifier :: 	G4JVF-3 ;;; [Andy] G4JVF/HF4
+	ImageURL :: 	http://www.qsl.net/g4jvf/hf4.jpg
+	Name :: 	Pete
+	RecentlyUp :: 	Occasional
+	Timestamp :: 	7/14/2018
+
+
+G6AVK
+
+	Callsign :: 	G6AVK
+	Comment :: 	Colin. Part time. Variable bands
+	Identifier :: 	G6AVK
+	ImageURL :: 	http://www.qsl.net/g6avk/hf6.jpg
+	Location :: 	Essex, England
+	Name :: 	Colin
+	RecentlyUp :: 	Occasional
+	Timestamp :: 	7/14/2018
+	WebSiteURL :: 	http://www.qsl.net/g6avk/
+
+
+G6NHU
+
+	Callsign :: 	G6NHU
+	Comment :: 	Keith, Essex UK. Bands variable , part time / occasional
+	Identifier :: 	G6NHU
+	ImageURL :: 	http://g6nhu.co.uk/images/capture.jpg
+	Location :: 	England
+	Name :: 	Keith
+	RecentlyUp :: 	Occasional
+	Timestamp :: 	7/14/2018
+	WebSiteURL :: 	http://g6nhu.co.uk
+
+
+GJ7RWT
+
+	Callsign :: 	GJ7RWT
+	Comment :: 	Andy, Jersey, UK.Usually 40m.
+	Identifier :: 	GJ7RWT
+	ImageURL :: 	http://www.qsl.net/gj7rwt/lopshot1.jpg
+	Location :: 	Jersey, England
+	Name :: 	Andy
+	RecentlyUp :: 	Full time
+	Timestamp :: 	7/14/2018
+	WebSiteURL :: 	http://www.qsl.net/gj7rwt/gj7rwthomepage.html
+
+
+HB9FXX
+
+	Identifier :: 	HB9FXX
+	ImageURL :: 	http://www.qsl.net/hb9fxx/hf1.png
+	RecentlyUp :: 	Occasional
+
+
+HB9FXX-grabber-2
+
+	Identifier :: 	HB9FXX-grabber-2
+	ImageURL :: 	http://qsl.net/hb9fxx/hf2.png
+	RecentlyUp :: 	Occasional.
+
+
+KL7L
+
+	Callsign :: 	KL7L
+	Comment :: 	Usually 30M. Alaska. Sometimes off air due to band wx.
+	Identifier :: 	KL7L
+	ImageURL :: 	http://kl7l.com/Alaska00000.jpg
+	Location :: 	Wasilla, Alaska
+	Name :: 	Laurence
+	RecentlyUp :: 	Full time
+	Timestamp :: 	7/14/2018
+	WebSiteURL :: 	http://kl7l.com/Alaska.html
+
+
+LA5GOA
+
+	Callsign :: 	LA5GOA
+	Comment :: 	Steen, 30m. Norway.
+	Identifier :: 	LA5GOA
+	ImageURL :: 	http://la5goa.manglet.net/grabber/lopshot1.jpg
+	Location :: 	Norway
+	Name :: 	Steen
+	RecentlyUp :: 	Full time 30m
+	Timestamp :: 	7/14/2018
+	Title :: 	A
+	WebSiteURL :: 	http://la5goa.manglet.net/grabber
+
+
+N2NXZ
+
+	Callsign :: 	N2NXZ
+	Identifier :: 	N2NXZ
+	ImageURL :: 	http://www.qsl.net/n2nxz/hf1.jpg
+	Location :: 	New York (USA)
+	Name :: 	Jim
+	RecentlyUp :: 	Part time - special balloon hunting-multiband and no freq scale.
+	WebSiteURL :: 	http://www.qsl.net/n2nxz/
+
+
+OK1FCX
+
+	Callsign :: 	OK1FCX
+	Comment :: 	Mostly 40m / part time
+	Identifier :: 	OK1FCX
+	ImageURL :: 	http://www.qsl.net/ok1fcx/hf1.jpg
+	Location :: 	Kamenny Privoz, Czech Republic
+	Name :: 	Radovan
+	RecentlyUp :: 	Full time
+	Timestamp :: 	7/14/2018
+	WebSiteURL :: 	http://www.qsl.net/ok1fcx/
+
+
+ON4CDJ
+
+	Callsign :: 	ON4CDJ
+	Comment :: 	Variable bands/ Part time.
+	Identifier :: 	ON4CDJ
+	ImageURL :: 	http://qsl.net/on4cdj/qrss/hf1.jpg
+	Location :: 	Belgium
+	Name :: 	Patrick
+	RecentlyUp :: 	Part time
+	Timestamp :: 	7/14/2018
+	WebSiteURL :: 	http://qsl.net/on4cdj/qrss
+
+
+PA2OHH ;;; [Andy] PA2OHH-SPAIN
+
+	Callsign :: 	PA2OHH
+	Comment :: 	Usually 30M. Onno from his Spanish QTH.
+	Identifier :: 	PA2OHH ;;; [Andy] PA2OHH-SPAIN
+	ImageURL :: 	http://www.qsl.net/pa2ohh/lopshot1.jpg
+	Location :: 	Spain
+	Name :: 	Onno
+	RecentlyUp :: 	Full time
+	Timestamp :: 	7/14/2018
+	WebSiteURL :: 	http://www.qsl.net/pa2ohh/grabber.htm
+
+
+PA3FYM
+
+	Callsign :: 	PA3FYM
+	Comment :: 	Usually 30M. Holland (Inactive from Feb 2018)
+	Identifier :: 	PA3FYM
+	ImageURL :: 	http://www.qsl.net/pa3fym/grabber/lopshot1.jpg
+	Timestamp :: 	7/14/2018
+
+
+S52AS
+
+	Callsign :: 	S52AS
+	Comment :: 	Usually 30m.Daily part time.
+	Extra :: 	daily 30m
+	Identifier :: 	S52AS
+	ImageURL :: 	http://novomesto.zevs.si/podatki/test.gif
+	Location :: 	Novo Mesto, Slovenia
+	Name :: 	Roman
+	RecentlyUp :: 	Part time
+	Timestamp :: 	7/14/2018
+	WebSiteURL :: 	http://novomesto.zevs.si/graber.htm
+
+
+SA6BSS-1 ;;; [Andy] SA6BSS1
+
+	Callsign :: 	SA6BSS-1
+	Comment :: 	Variable bands/ Mostly full time
+	Identifier :: 	SA6BSS-1 ;;; [Andy] SA6BSS1
+	ImageURL :: 	http://qsl.net/sa6bss/hf1.jpg
+	Name :: 	Mikael
+	RecentlyUp :: 	Mostly full time
+	Timestamp :: 	7/14/2018
+
+
+SA6BSS-2 ;;; [Andy] SA6BSS2
+
+	Callsign :: 	SA6BSS-2
+	Comment :: 	Variable bands/ Mostly full time
+	Identifier :: 	SA6BSS-2 ;;; [Andy] SA6BSS2
+	ImageURL :: 	http://qsl.net/sa6bss/hf2.jpg
+	Name :: 	Mikael
+	RecentlyUp :: 	Mostly full time
+	Timestamp :: 	7/14/2018
+
+
+SA6BSS-3 ;;; [Andy] SA6BSS3
+
+	Callsign :: 	SA6BSS-3
+	Comment :: 	Variable bands/ Mostly full time
+	Identifier :: 	SA6BSS-3 ;;; [Andy] SA6BSS3
+	ImageURL :: 	http://qsl.net/sa6bss/hf3.jpg
+	Name :: 	Mikael
+	RecentlyUp :: 	Mostly full time
+	Timestamp :: 	7/14/2018
+
+
+SA6BSS1
+
+	Callsign :: 	SA6BSS
+	Identifier :: 	SA6BSS1
+	ImageURL :: 	http://www.qsl.net/sa6bss/hf1.jpg
+	Location :: 	Sweden
+	Name :: 	Mikael
+	Title :: 	10 MHz
+	WebSiteURL :: 	http://www.qsl.net/sa6bss
+
+
+SA6BSS2
+
+	Callsign :: 	SA6BSS
+	Identifier :: 	SA6BSS2
+	ImageURL :: 	http://www.qsl.net/sa6bss/hf2.jpg
+	Location :: 	Sweden
+	Name :: 	Mikael
+	Title :: 	7 MHz
+	WebSiteURL :: 	http://www.qsl.net/sa6bss
+
+
+SA6BSS3
+
+	Callsign :: 	SA6BSS
+	Identifier :: 	SA6BSS3
+	ImageURL :: 	http://www.qsl.net/sa6bss/hf3.jpg
+	Location :: 	Sweden
+	Name :: 	Mikael
+	Title :: 	14 MHz
+	WebSiteURL :: 	http://www.qsl.net/sa6bss
+
+
+SP5XSB
+
+	Identifier :: 	SP5XSB
+	ImageURL :: 	http://www.qsl.net/sp5xsb/capture.jpg
+	RecentlyUp :: 	Mostly full time and usually LF but occasional HF
+
+
+VA3ROM
+
+	Callsign :: 	VA3ROM
+	Comment :: 	Usually 30m. Full time
+	Identifier :: 	VA3ROM
+	ImageURL :: 	http://va3rom.com/QRSS/image1.jpg
+	Location :: 	Ontario, Canada
+	Name :: 	Robert
+	RecentlyUp :: 	Maybe inactive from July 2018. To be reviewed.
+	Timestamp :: 	7/14/2018
+	WebSiteURL :: 	http://va3rom.com/QRSS/QRSS.html
+
+
+VE1VDM
+
+	Callsign :: 	VE1VDM
+	Comment :: 	Vernon, variable bands
+	Identifier :: 	VE1VDM
+	ImageURL :: 	http://users.eastlink.ca/~ve1vdm/argocaptures/argo.jpg
+	Location :: 	Nova Scotia, Canada
+	Name :: 	Vernon
+	RecentlyUp :: 	Mostly full time
+	Timestamp :: 	7/14/2018
+	WebSiteURL :: 	http://users.eastlink.ca/~ve1vdm/argocaptures/grabber.htm
+
+
+VE3GTC
+
+	Identifier :: 	VE3GTC
+	ImageURL :: 	https://dl.dropboxusercontent.com/s/j2srkb0kz3814qx/picture.jpg
+	RecentlyUp :: 	Usually 30m full time.
+
+
+VE3GTC
+
+	Identifier :: 	VE3GTC
+	ImageURL :: 	https://dl.dropboxusercontent.com/s/j2srkb0kz3814qx/picture.jpg
+	RecentlyUp :: 	Usually 30m full time.
+
+
+VE7IGH
+
+	Callsign :: 	VE7IGH
+	Identifier :: 	VE7IGH
+	ImageURL :: 	http://www.qsl.net/ve7igh/capt.jpg
+	Location :: 	British Columbia, Canada
+	Name :: 	Gregory
+	RecentlyUp :: 	Full time 30m
+	WebSiteURL :: 	http://www.qsl.net/ve7igh/Grabber.htm
+
+
+W4HBK
+
+	Identifier :: 	W4HBK
+	ImageURL :: 	http://qsl.net/w4hbk/hf1.jpg
+	RecentlyUp :: 	Full time
+
+
+W4HBK-6HOUR
+
+	Identifier :: 	W4HBK-6HOUR
+	ImageURL :: 	http://qsl.net/w4hbk/hf2.jpg
+	RecentlyUp :: 	Full time
+
+
+W4HBK1
+
+	Callsign :: 	W4HBK
+	Comment :: 	W4HBK, 10min grab. Full time. Variable bands.Mostly 30m
+	Identifier :: 	W4HBK1
+	ImageURL :: 	http://www.qsl.net/w4hbk/SL1.jpg
+	Location :: 	Pensacola, Florida
+	Name :: 	Bill
+	Timestamp :: 	7/14/2018
+	Title :: 	10min
+	WebSiteURL :: 	http://www.qsl.net/w4hbk/W4HBKgrabber.html
+
+
+W4HBK2
+
+	Callsign :: 	W4HBK
+	Comment :: 	W4HBK, 8hr grab. Full time. Variable bands.Mostly 30m
+	Identifier :: 	W4HBK2
+	ImageURL :: 	http://www.qsl.net/w4hbk/4Hrs.jpg
+	Location :: 	Pensacola, Florida
+	Name :: 	Bill
+	Timestamp :: 	7/14/2018
+	Title :: 	6hr
+	WebSiteURL :: 	http://www.qsl.net/w4hbk/W4HBKgrabberLast4Hours.html
+
+
+WA5DJJ-10m ;;; [Andy] WA5DJJ-10
+
+	Callsign :: 	WA5DJJ
+	Comment :: 	WA5DJJ-10m
+	Identifier :: 	WA5DJJ-10m ;;; [Andy] WA5DJJ-10
+	ImageURL :: 	http://qsl.net/wa5djj/hf8.jpg
+	Location :: 	Las Cruces, New Mexico
+	Name :: 	David ;;; [Henry] Super Dave
+	RecentlyUp :: 	Full time
+	Timestamp :: 	7/14/2018
+	Title :: 	10m
+	WebSiteURL :: 	http://qsl.net/wa5djj/
+
+
+WA5DJJ-12
+
+	Identifier :: 	WA5DJJ-12
+	ImageURL :: 	http://www.qsl.net/wa5djj/hf7.jpg
+	RecentlyUp :: 	Full time
+
+
+WA5DJJ-12m
+
+	Callsign :: 	WA5DJJ
+	Identifier :: 	WA5DJJ-12m
+	ImageURL :: 	http://qsl.net/wa5djj/hf7.jpg
+	Location :: 	Las Cruces, New Mexico
+	Name :: 	David
+	Title :: 	12m
+	WebSiteURL :: 	http://qsl.net/wa5djj/
+
+
+WA5DJJ-15m ;;; [Andy] WA5DJJ-15
+
+	Callsign :: 	WA5DJJ
+	Comment :: 	WA5DJJ-15m
+	Identifier :: 	WA5DJJ-15m ;;; [Andy] WA5DJJ-15
+	ImageURL :: 	http://qsl.net/wa5djj/hf6.jpg
+	Location :: 	Las Cruces, New Mexico
+	Name :: 	David ;;; [Henry] Super Dave
+	RecentlyUp :: 	Full time
+	Timestamp :: 	7/14/2018
+	Title :: 	15m
+	WebSiteURL :: 	http://qsl.net/wa5djj/
+
+
+WA5DJJ-160m ;;; [Andy] WA5DJJ-160
+
+	Callsign :: 	WA5DJJ
+	Comment :: 	WA5DJJ 160m
+	Identifier :: 	WA5DJJ-160m ;;; [Andy] WA5DJJ-160
+	ImageURL :: 	http://qsl.net/wa5djj/mf2.jpg
+	Location :: 	Las Cruces, New Mexico
+	Name :: 	David ;;; [Henry] Super Dave
+	RecentlyUp :: 	Full time
+	Timestamp :: 	7/14/2018
+	Title :: 	160m
+	WebSiteURL :: 	http://qsl.net/wa5djj/
+
+
+WA5DJJ-17m ;;; [Andy] WA5DJJ-17
+
+	Callsign :: 	WA5DJJ
+	Comment :: 	WA5DJJ-17m
+	Identifier :: 	WA5DJJ-17m ;;; [Andy] WA5DJJ-17
+	ImageURL :: 	http://qsl.net/wa5djj/hf5.jpg
+	Location :: 	Las Cruces, New Mexico
+	Name :: 	David ;;; [Henry] Super Dave
+	RecentlyUp :: 	Full time
+	Timestamp :: 	7/14/2018
+	Title :: 	17m
+	WebSiteURL :: 	http://qsl.net/wa5djj/
+
+
+WA5DJJ-20m ;;; [Andy] WA5DJJ-20
+
+	Callsign :: 	WA5DJJ
+	Comment :: 	WA5DJJ-20m
+	Identifier :: 	WA5DJJ-20m ;;; [Andy] WA5DJJ-20
+	ImageURL :: 	http://qsl.net/wa5djj/hf4.jpg
+	Location :: 	Las Cruces, New Mexico
+	Name :: 	David ;;; [Henry] Super Dave
+	RecentlyUp :: 	Full time
+	Timestamp :: 	7/14/2018
+	Title :: 	20m
+	WebSiteURL :: 	http://qsl.net/wa5djj/
+
+
+WA5DJJ-2200m
+
+	Identifier :: 	WA5DJJ-2200m
+	ImageURL :: 	http://www.qsl.net/wa5djj/lf1.jpg
+	RecentlyUp :: 	Full time
+
+
+WA5DJJ-30m ;;; [Andy] WA5DJJ-30
+
+	Callsign :: 	WA5DJJ
+	Comment :: 	WA5DJJ-30m
+	Identifier :: 	WA5DJJ-30m ;;; [Andy] WA5DJJ-30
+	ImageURL :: 	http://qsl.net/wa5djj/hf3.jpg
+	Location :: 	Las Cruces, New Mexico
+	Name :: 	David ;;; [Henry] Super Dave
+	RecentlyUp :: 	Full time
+	Timestamp :: 	7/14/2018
+	Title :: 	30m
+	WebSiteURL :: 	http://qsl.net/wa5djj/
+
+
+WA5DJJ-40m ;;; [Andy] WA5DJJ-40
+
+	Callsign :: 	WA5DJJ
+	Comment :: 	WA5DJJ-40m
+	Identifier :: 	WA5DJJ-40m ;;; [Andy] WA5DJJ-40
+	ImageURL :: 	http://qsl.net/wa5djj/hf2.jpg
+	Location :: 	Las Cruces, New Mexico
+	Name :: 	David ;;; [Henry] Super Dave
+	RecentlyUp :: 	Full time
+	Timestamp :: 	7/14/2018
+	Title :: 	40m
+	WebSiteURL :: 	http://qsl.net/wa5djj/
+
+
+WA5DJJ-60m ;;; [Andy] WA5DJJ-60M
+
+	Callsign :: 	WA5DJJ
+	Comment :: 	WA5DJJ-60m
+	Identifier :: 	WA5DJJ-60m ;;; [Andy] WA5DJJ-60M
+	ImageURL :: 	http://qsl.net/wa5djj/hf1.jpg
+	Location :: 	Las Cruces, New Mexico
+	Name :: 	David ;;; [Henry] Super Dave
+	RecentlyUp :: 	Full time
+	Timestamp :: 	7/14/2018
+	Title :: 	60M
+	WebSiteURL :: 	http://qsl.net/wa5djj/
+
+
+WA5DJJ-630
+
+	Identifier :: 	WA5DJJ-630
+	ImageURL :: 	http://www.qsl.net/wa5djj/mf1.jpg
+	RecentlyUp :: 	Full time
+
+
+WA5DJJ-80m
+
+	Identifier :: 	WA5DJJ-80m
+	ImageURL :: 	http://www.qsl.net/wa5djj/mf3.jpg
+	RecentlyUp :: 	Full time
+
+
+WA5DJJ-80m ;;; [Andy] WA5DJJ-80
+
+	Callsign :: 	WA5DJJ
+	Comment :: 	WA5DJJ-80m
+	Identifier :: 	WA5DJJ-80m ;;; [Andy] WA5DJJ-80
+	ImageURL :: 	http://qsl.net/wa5djj/mf3.jpg
+	Location :: 	Las Cruces, New Mexico
+	Name :: 	David ;;; [Henry] Super Dave
+	RecentlyUp :: 	Full time
+	Timestamp :: 	7/14/2018
+	Title :: 	80m
+	WebSiteURL :: 	http://qsl.net/wa5djj/
+
+
+WB5FKC
+
+	Callsign :: 	WB5FKC
+	Identifier :: 	WB5FKC
+	ImageURL :: 	https://dl.dropboxusercontent.com/s/n1d61ynnfi46ddb/HF.jpg
+	Location :: 	El Paso, TX
+	Name :: 	Christian
+	WebSiteURL :: 	https://www.dropbox.com/s/n1d61ynnfi46ddb/HF.jpg?dl=0
+
+
+WD4ELG-20
+
+	Callsign :: 	WD4ELG
+	Comment :: 	Mark WD4ELG 20m
+	Identifier :: 	WD4ELG-20
+	ImageURL :: 	https://dl.dropboxusercontent.com/s/gba72cz0au66032/WD4ELG%2020M%20grabber%20%28REFRESH%20for%20latest%20grab%29.jpg
+	Location :: 	Greensboro, NC
+	Name :: 	Mark
+	RecentlyUp :: 	Mostly full time
+	Timestamp :: 	7/14/2018
+	Title :: 	20 M grabber
+	WebSiteURL :: 	http://wd4elg.blogspot.com
+
+
+WD4ELG-30
+
+	Callsign :: 	WD4ELG
+	Comment :: 	Mark WD4ELG 30m
+	Identifier :: 	WD4ELG-30
+	ImageURL :: 	https://dl.dropboxusercontent.com/s/7djby65cbfh6hv7/WD4ELG%2030M%20grabber%20%28REFRESH%20for%20latest%20grab%29.jpg
+	Location :: 	Greensboro, NC
+	Name :: 	Mark
+	RecentlyUp :: 	Mostly full time
+	Timestamp :: 	7/14/2018
+	Title :: 	30 M grabber
+	WebSiteURL :: 	http://wd4elg.blogspot.com
+
+
+WD4ELG-40
+
+	Callsign :: 	WD4ELG
+	Comment :: 	Mark WD4ELG 40m
+	Identifier :: 	WD4ELG-40
+	ImageURL :: 	https://dl.dropboxusercontent.com/s/ajhc4t640k7k67u/WD4ELG%2040M%20grabber%20%28REFRESH%20for%20latest%20grab%29.jpg
+	Location :: 	Greensboro, NC
+	Name :: 	Mark
+	RecentlyUp :: 	Mostly full time
+	Timestamp :: 	7/14/2018
+	Title :: 	40 M grabber
+	WebSiteURL :: 	http://wd4elg.blogspot.com
+
+
+WD4ELG-80
+
+	Callsign :: 	WD4ELG
+	Identifier :: 	WD4ELG-80
+	ImageURL :: 	https://dl.dropboxusercontent.com/s/59ktcp48iie5i1m/WD4ELG%2080M%20grabber%20%28REFRESH%20for%20latest%20grab%29.jpg
+	Location :: 	Greensboro, NC
+	Name :: 	Mark
+	Title :: 	80 M grabber
+	WebSiteURL :: 	http://wd4elg.blogspot.com
+
+
+WD4ELG-80
+
+	Callsign :: 	WD4ELG
+	Identifier :: 	WD4ELG-80
+	ImageURL :: 	https://dl.dropboxusercontent.com/s/59ktcp48iie5i1m/WD4ELG%2080M%20grabber%20%28REFRESH%20for%20latest%20grab%29.jpg
+	Location :: 	Greensboro, NC
+	Name :: 	Mark
+	Title :: 	80 M grabber
+	WebSiteURL :: 	http://wd4elg.blogspot.com
+
+
+ZL2IK1 ;;; [Andy] ZL2IK
+
+	Callsign :: 	ZL2IK
+	Comment :: 	Pete, New Zealand. Mostly 30/40m.
+	Identifier :: 	ZL2IK1 ;;; [Andy] ZL2IK
+	ImageURL :: 	http://zl2ik.com/Argo.jpg
+	Location :: 	Northland, New Zealand
+	Name :: 	Pete
+	RecentlyUp :: 	Mostly full time
+	Timestamp :: 	7/14/2018
+	Title :: 	10min
+	WebSiteURL :: 	http://zl2ik.com/Grabber.html
+
+
+ZL2IK2 ;;; [Andy] ZL2IK-4HOUR
+
+	Callsign :: 	ZL2IK
+	Identifier :: 	ZL2IK2 ;;; [Andy] ZL2IK-4HOUR
+	ImageURL :: 	http://zl2ik.com/Brgo.jpg
+	Location :: 	Northland, New Zealand
+	Name :: 	Pete
+	RecentlyUp :: 	Mostly full time
+	Title :: 	5hr
+	WebSiteURL :: 	http://zl2ik.com/Grabber4Hr.html

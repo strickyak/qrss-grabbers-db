@@ -1,0 +1,79 @@
+# Global unified QRSS grabber file.
+# Release date: 1734 UTC 29 JULY 2018
+#
+# Purpose of file to assist with grabber compendiums, and assure that a compendium page consists
+# of the most active grabbers, without wasting page space with dead grabbers.
+#
+# A useful BASH script file to utilise this activegrabberslist.txt can be found here at
+# http://qsl.net/g0ftd/simple_five_minute_grabbergrabs_using_online_control_list.bash
+#
+# Some links are seasonal, a few may be inactive but are recommended for being on the watch list.
+# Such links will be kept to an absolute minimum.
+#
+# Anything with a hash or gate character is to be ignored for parsing.
+#
+# Feedback,requests,suggestions to qrssknights+owner@groups.io
+#
+AA7US-HF3,http://www.qsl.net/aa7us/hf3.jpg,Seasonal
+2E0ILY-136KHZ,http://www.chriswilson.tv/grabs/qrss.gif,Seasonal
+7L1RLL-136KHZ,http://www1.u-netsurf.ne.jp/~7l1rll/argo_capture.jpg,Full time
+CT2IWW-2018,http://qsl.net/ct2iww/CT2IWW_QRSS_files/hf1.jpg,Part time
+DF2JP-630M,http://www.df2jp.dxx.eu/630m.jpg,Seasonal
+EA8BVP,http://www.qsl.net/ea8bvp/hf1.jpg,Full time 10 min grabs
+EA8BVP-4,http://www.qsl.net/ea8bvp/hf2.jpg,Full time 4 hour grabs
+EW6BN-136Khz,http://qsl.net/ew6bn/grabber/capt3.jpg,Belarus 136Khx EU tx window
+G0MQW1,http://www.qsl.net/g0mqw/hf1.jpg,Full time
+G0MQW2,http://www.qsl.net/g0mqw/hf2.jpg,Full time
+G0MQW3,http://www.qsl.net/g0mqw/hf3.jpg,Full time
+G3VYZ1,http://www.holywell44.com/qrss/qrss_.jpg,Full time
+G3VYZ2,http://www.holywell44.com/qrss/qrss_2.jpg,Full time
+G3VYZ3,http://www.holywell44.com/qrss/qrss_3.jpg,Full time
+G3VYZ4,http://www.holywell44.com/qrss/qrss_4.jpg,1 hour slow 40m
+G3VYZ5,http://www.holywell44.com/qrss/qrss_5.jpg,10m narrow band view
+G3YXM-475Khz,http://g3yxm.ddns.net/grabs/472.jpg,Full time
+G3ZJO,http://www.qsl.net/g3zjo/HFgrab/hf1.jpg,Occasional
+G4IOG-Alternative,http://www.qsl.net/g4iog/qrsspig/hf5.jpg,Mostly full time
+G4IOG,http://www.qsl.net/g4iog/hf9.jpg,Full time, bands variable
+G4JVF/HF1,http://www.qsl.net/g4jvf//hf1.jpg,Occasional
+G4JVF/HF4,http://www.qsl.net/g4jvf/hf4.jpg,Occasional
+G6AVK,http://www.qsl.net/g6avk/hf6.jpg,Occasional
+G6NHU,http://g6nhu.co.uk/images/capture.jpg,Occasional
+HB9FXX,http://www.qsl.net/hb9fxx/hf1.png,Occasional
+HB9FXX-grabber-2,http://qsl.net/hb9fxx/hf2.png,Occasional.
+GJ7RWT,http://www.qsl.net/gj7rwt/lopshot1.jpg,Full time
+LA5GOA,http://la5goa.manglet.net/grabber/lopshot1.jpg,Full time 30m
+N2NXZ,http://www.qsl.net/n2nxz/hf1.jpg,Part time - special balloon hunting-multiband and no freq scale.
+KL7L,http://kl7l.com/Alaska00000.jpg,Full time
+OK1FCX,http://www.qsl.net/ok1fcx/hf1.jpg,Full time
+ON4CDJ,http://qsl.net/on4cdj/qrss/hf1.jpg,Part time
+PA2OHH-SPAIN,http://www.qsl.net/pa2ohh/lopshot1.jpg,Full time
+S52AS,http://novomesto.zevs.si/podatki/test.gif,Part time,daily 30m
+SA6BSS1,http://qsl.net/sa6bss/hf1.jpg,Mostly full time
+SA6BSS2,http://qsl.net/sa6bss/hf2.jpg,Mostly full time
+SA6BSS3,http://qsl.net/sa6bss/hf3.jpg,Mostly full time
+SP5XSB,http://www.qsl.net/sp5xsb/capture.jpg,Mostly full time and usually LF but occasional HF
+VA3ROM,http://va3rom.com/QRSS/image1.jpg,Maybe inactive from July 2018. To be reviewed.
+VE1VDM,http://users.eastlink.ca/~ve1vdm/argocaptures/argo.jpg,Mostly full time
+VE3GTC,https://dl.dropboxusercontent.com/s/j2srkb0kz3814qx/picture.jpg,Usually 30m full time.
+VE7IGH,http://www.qsl.net/ve7igh/capt.jpg,Full time 30m
+W4HBK,http://qsl.net/w4hbk/hf1.jpg,Full time
+W4HBK-6HOUR,http://qsl.net/w4hbk/hf2.jpg,Full time
+WA5DJJ-10,http://qsl.net/wa5djj/hf8.jpg,Full time
+WA5DJJ-12,http://www.qsl.net/wa5djj/hf7.jpg,Full time
+WA5DJJ-15,http://qsl.net/wa5djj/hf6.jpg,Full time
+WA5DJJ-17,http://qsl.net/wa5djj/hf5.jpg,Full time
+WA5DJJ-20,http://qsl.net/wa5djj/hf4.jpg,Full time
+WA5DJJ-30,http://qsl.net/wa5djj/hf3.jpg,Full time
+WA5DJJ-40,http://qsl.net/wa5djj/hf2.jpg,Full time
+WA5DJJ-60M,http://qsl.net/wa5djj/hf1.jpg,Full time
+WA5DJJ-80m,http://www.qsl.net/wa5djj/mf3.jpg,Full time
+WA5DJJ-160,http://qsl.net/wa5djj/mf2.jpg,Full time
+WA5DJJ-630,http://www.qsl.net/wa5djj/mf1.jpg,Full time
+WA5DJJ-2200m,http://www.qsl.net/wa5djj/lf1.jpg,Full time
+WA5DJJ-80,http://qsl.net/wa5djj/mf3.jpg,Full time
+WD4ELG-20,https://dl.dropboxusercontent.com/s/gba72cz0au66032/WD4ELG%2020M%20grabber%20%28REFRESH%20for%20latest%20grab%29.jpg,Mostly full time
+WD4ELG-30,https://dl.dropboxusercontent.com/s/7djby65cbfh6hv7/WD4ELG%2030M%20grabber%20%28REFRESH%20for%20latest%20grab%29.jpg,Mostly full time
+WD4ELG-40,https://dl.dropboxusercontent.com/s/ajhc4t640k7k67u/WD4ELG%2040M%20grabber%20%28REFRESH%20for%20latest%20grab%29.jpg,Mostly full time
+WD4ELG-80,https://dl.dropboxusercontent.com/s/07gobj9fpsnm65q/WD4ELG%2080M%20grabber%20%28REFRESH%20for%20latest%20grab%29.jpg,Seasonal
+ZL2IK,http://zl2ik.com/Argo.jpg,Mostly full time
+ZL2IK-4HOUR,http://zl2ik.com/Brgo.jpg,Mostly full time
