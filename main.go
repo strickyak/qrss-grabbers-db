@@ -134,7 +134,7 @@ func Fetch(sd SourceDef) map[string]map[string]string {
 
 		image := d["ImageURL"]
 		if image == "ImageURL" {
-			continue  // This came from a schema line.
+			continue // This came from a schema line.
 		}
 		if image == "" {
 			log.Fatalf("No ImageURL: %v", d)
